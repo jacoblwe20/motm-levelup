@@ -3,7 +3,7 @@ var levelup = require('levelup'),
 	db = levelup('./data'),
 	db2 = levelup('./data2'),
 	rs = db.createReadStream( ),
-	rs2 = db2.createReadStream( );
+	rs2 = db2.createReadStream( ),
 	ws2 = db2.createWriteStream( );
 
 // pipe info from first database into second
