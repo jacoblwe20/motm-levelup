@@ -6,7 +6,7 @@ Levelup is a high level abstraction of leveldb. This allows you to use leveldb t
 
 [Wikipedia](http://en.wikipedia.org/wiki/LevelDB)
 
-LevelDB is a fast & [extensable](https://github.com/rvagg/node-levelup/wiki/Modules#wiki-plugins) data store that is use as the backend for Google Chromes indexDB.
+LevelDB is a fast & [extensable](https://github.com/rvagg/node-levelup/wiki/Modules#wiki-plugins) embedable data store that is use as the backend for Google Chromes indexDB.
 
 [Benchmarks](http://leveldb.googlecode.com/svn/trunk/doc/benchmark.html)
 
