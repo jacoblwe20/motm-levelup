@@ -1,0 +1,21 @@
+{
+  "name": "motm-levelup",
+  "version": "0.0.0-1",
+  "description": "Module of the month for Riverside.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "module",
+    "demo",
+    "leveldb"
+  ],
+  "author": "Jacob Lowe",
+  "license": "MIT",
+  "devDependencies": {
+    "levelup": "~0.18.2",
+    "leveldown": "~0.10.2"
+  }
+}

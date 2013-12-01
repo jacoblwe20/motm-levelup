@@ -1,0 +1,9 @@
+# Nodejs Stuff
+
+npm-debug.log
+node_modules
+
+# Levelup stuff
+
+data
+data2
