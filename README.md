@@ -1,5 +1,7 @@
 # Module of the Month - Levelup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/motm-levelup.svg)](https://greenkeeper.io/)
+
 Levelup is a high level abstraction of leveldb. This allows you to use leveldb to store and lookup items in leveldb && More
 
 # LevelDB? 
