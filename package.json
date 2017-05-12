@@ -15,7 +15,7 @@
   "author": "Jacob Lowe",
   "license": "MIT",
   "devDependencies": {
-    "levelup": "~0.18.2",
-    "leveldown": "~0.10.2"
+    "levelup": "~1.3.6",
+    "leveldown": "~1.6.0"
   }
 }
